@@ -1,5 +1,22 @@
 {
   "devDependencies": {
     "@types/node": "^18.14.0"
-  }
+  },
+  "name": "learn-typescript",
+  "description": "Repository for learning typescript journey",
+  "version": "1.0.0",
+  "main": "using-ts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/riomulya/learn-typescript.git"
+  },
+  "author": "rio mulya s",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/riomulya/learn-typescript/issues"
+  },
+  "homepage": "https://github.com/riomulya/learn-typescript#readme"
 }
